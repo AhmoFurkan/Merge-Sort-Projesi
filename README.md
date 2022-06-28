@@ -10,3 +10,5 @@ veri yapıları ve algoritmalar project 2
 * Big-O gösterimini yazınız.
 
 o(nlogn)
+
+[patika linkim](https://app.patika.dev/ahmetfurkan)
